@@ -16,8 +16,6 @@ I believe in creating solutions that are:
 
 ### 🧠 Current Projects
 - [SafeTX](https://github.com/cshillrj46/SafeTX) — An AI-powered Web3 extension to **detect and delay** suspicious crypto transactions in real time.
-- Chatbot Antigolpe — A smart assistant designed to detect **fraudulent language** in WhatsApp conversations.
-- PDF Intelligence Extractor — Automating structured intelligence from public security reports (with geolocation!).
 
 ### 🛠️ Tech Stack
 `Python` | `FastAPI` | `Scikit-learn` | `Pandas` | `Regex`  

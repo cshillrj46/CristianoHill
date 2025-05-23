@@ -20,7 +20,7 @@ I believe in creating solutions that are:
 - 
 ### 🛠️ Tech Stack
 `Python` | `FastAPI` | `Scikit-learn` | `Pandas` | `Regex`  
-`React + Tailwind` | `PostgreSQL` | `MetaTrader5 (MT5)` | `Git`
+`React + Tailwind` | `PostgreSQL` | `Git` | `JavaScript` | `AI`
 
 ### 📈 What I'm looking for
 
